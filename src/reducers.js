@@ -6,7 +6,7 @@ import {
 } from './constants';
 
 const initialStateSearch = {
-    searchField : ''
+    searchField: ''
 };
 
 const initialStateRobots = {
